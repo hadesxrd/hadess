@@ -1,0 +1,284 @@
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/extras/FoxyRush_forGif1__1_.gif?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\extras\FoxyRush_forGif1__1_.gif
+Content Type: image/gif
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/extras/FoxyRush_forGif2__1_.gif?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\extras\FoxyRush_forGif2__1_.gif
+Content Type: image/gif
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/extras/FoxyRush_forGif3__1_.gif?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\extras\FoxyRush_forGif3__1_.gif
+Content Type: image/gif
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/ss_31748b462df11de10f1e06e5ad555add6b8aef7b.1920x1080.jpg?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\ss_31748b462df11de10f1e06e5ad555add6b8aef7b.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/ss_79cd48c9bcbc1d28407cd67298d58756e9e75d7f.1920x1080.jpg?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\ss_79cd48c9bcbc1d28407cd67298d58756e9e75d7f.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/ss_8ac51c24f567abd17f5d81220e3e57d7510bee95.1920x1080.jpg?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\ss_8ac51c24f567abd17f5d81220e3e57d7510bee95.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/ss_9a96f7ea6650eb5ba7aecf56978e04d70429690d.1920x1080.jpg?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\ss_9a96f7ea6650eb5ba7aecf56978e04d70429690d.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/ss_a9eb81c376650af88b7c65d401008155285ded44.1920x1080.jpg?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\ss_a9eb81c376650af88b7c65d401008155285ded44.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/ss_b315053552e55c35268d1ff6739d4f79695cc6ad.1920x1080.jpg?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\ss_b315053552e55c35268d1ff6739d4f79695cc6ad.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/2851270/ss_e84affe85a7960bfc48658925fef8a8fe94b2b2a.1920x1080.jpg?t=1712300915
+File Name: C:\Downloaded Web Sites\foxyrush.com\steam\apps\2851270\ss_e84affe85a7960bfc48658925fef8a8fe94b2b2a.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://foxyrush.com/
+File Name: C:\Downloaded Web Sites\foxyrush.com\index.htm
+Content Type: text/html
+
+Uri: https://foxyrush.com/assets/img/bg/area_bg01.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\assets\img\bg\area_bg01.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/assets/img/bg/team_bg.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\assets\img\bg\team_bg.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/assets/img/gallery/gallery01.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\assets\img\gallery\gallery01.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/assets/img/slider/slider_bg.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\assets\img\slider\slider_bg.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/css/main.css
+File Name: C:\Downloaded Web Sites\foxyrush.com\css\main.css
+Content Type: text/css
+
+Uri: https://foxyrush.com/css/plugins.css
+File Name: C:\Downloaded Web Sites\foxyrush.com\css\plugins.css
+Content Type: text/css
+
+Uri: https://foxyrush.com/css2.css
+File Name: C:\Downloaded Web Sites\foxyrush.com\css2.css
+Content Type: text/css
+
+Uri: https://foxyrush.com/favicon.ico
+File Name: C:\Downloaded Web Sites\foxyrush.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://foxyrush.com/fonts/berlin_sans_fb_demi_bold-webfont.woff
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\berlin_sans_fb_demi_bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://foxyrush.com/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://foxyrush.com/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://foxyrush.com/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://foxyrush.com/fonts/fa-brands-400d41dd41dd41dd41d.eot
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-brands-400d41dd41dd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://foxyrush.com/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://foxyrush.com/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://foxyrush.com/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://foxyrush.com/fonts/fa-regular-400d41dd41dd41dd41d.eot
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-regular-400d41dd41dd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://foxyrush.com/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://foxyrush.com/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://foxyrush.com/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://foxyrush.com/fonts/fa-solid-900d41dd41dd41dd41d.eot
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\fa-solid-900d41dd41dd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://foxyrush.com/fonts/flaticonf1e7f1e7f1e7f1e7.eot
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\flaticonf1e7f1e7f1e7f1e7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://foxyrush.com/fonts/flaticonf1e7f1e7f1e7f1e7.ttf
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\flaticonf1e7f1e7f1e7f1e7.ttf
+Content Type: font/ttf
+
+Uri: https://foxyrush.com/fonts/flaticonf1e7f1e7f1e7f1e7.woff
+File Name: C:\Downloaded Web Sites\foxyrush.com\fonts\flaticonf1e7f1e7f1e7f1e7.woff
+Content Type: font/woff
+
+Uri: https://foxyrush.com/images/btn_shape01.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\btn_shape01.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/btn_shape02.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\btn_shape02.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://foxyrush.com/images/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://foxyrush.com/images/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://foxyrush.com/images/flaticonf1e7f1e7f1e7f1e7.svg
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\flaticonf1e7f1e7f1e7f1e7.svg
+Content Type: image/svg+xml
+
+Uri: https://foxyrush.com/images/footer_shape.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\footer_shape.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/line.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\line.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/mask_bg01.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\mask_bg01.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/mask_bg02.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\mask_bg02.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/search_wave.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\search_wave.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/shop_shape.svg
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\shop_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://foxyrush.com/images/text_gradient_bg.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\text_gradient_bg.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/title_shape.svg
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\title_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://foxyrush.com/images/trophy_color.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\trophy_color.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/images/video_overlay.png
+File Name: C:\Downloaded Web Sites\foxyrush.com\images\video_overlay.png
+Content Type: image/png
+
+Uri: https://foxyrush.com/index-2.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\index-2.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/js/ajax-form.js
+File Name: C:\Downloaded Web Sites\foxyrush.com\js\ajax-form.js
+Content Type: text/javascript
+
+Uri: https://foxyrush.com/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\foxyrush.com\js\jquery-3.6.0.min.js
+Content Type: text/javascript
+
+Uri: https://foxyrush.com/js/main.js
+File Name: C:\Downloaded Web Sites\foxyrush.com\js\main.js
+Content Type: text/javascript
+
+Uri: https://foxyrush.com/js/plugins.js
+File Name: C:\Downloaded Web Sites\foxyrush.com\js\plugins.js
+Content Type: text/javascript
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHpv4kjgoGqM7EPCw.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHpv4kjgoGqM7EPCw.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8c4A.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8c4A.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-wc4A.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHqv4kjgoGqM7E3j-wc4A.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-kc4A.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHqv4kjgoGqM7E3p-kc4A.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0c4A.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHqv4kjgoGqM7E3q-0c4A.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4c4A.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gc4A.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHqv4kjgoGqM7E3_-gc4A.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHrv4kjgoGqM7E_Ccs8.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHrv4kjgoGqM7E_Ccs8.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI41op.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPI41op.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5Fop.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPk5Fop.html
+Content Type: text/html
+
+Uri: https://foxyrush.com/trendoctopus_img.html
+File Name: C:\Downloaded Web Sites\foxyrush.com\trendoctopus_img.html
+Content Type: text/html
+
+Uri: https://media.discordapp.net/attachments/1226259457688731812/1226593022498705528/3c4f7083091e8a6154b42bb201d5119e.jpg?ex=662554c5&is=6612dfc5&hm=10ee73d0c804d8401ed4f26057405c801b5da2e5734f12fd4bd601afd5d23d79&=&format=webp
+File Name: C:\Downloaded Web Sites\foxyrush.com\attachments\1226259457688731812\1226593022498705528\3c4f7083091e8a6154b42bb201d5119e.jpg
+Content Type: image/webp
+
+Uri: https://media.discordapp.net/attachments/1226259457688731812/1226593022842634240/4d46211ad6e80f06fc2fe0af9f00eb6c.jpg?ex=662554c5&is=6612dfc5&hm=f89ae26365c514f95de27b8430a7148165beab4d8dbb2617298dc5cef06e40ee&=&format=webp
+File Name: C:\Downloaded Web Sites\foxyrush.com\attachments\1226259457688731812\1226593022842634240\4d46211ad6e80f06fc2fe0af9f00eb6c.jpg
+Content Type: image/webp
+
+Uri: https://media.discordapp.net/attachments/1226259457688731812/1226593023333371955/6c6d0a92760684802064c4a3a0937698.jpg?ex=662554c5&is=6612dfc5&hm=bee551371556f67e4e62af20f73e22d18e202d3bb4357d3bfde6594d8bf065c3&=&format=webp
+File Name: C:\Downloaded Web Sites\foxyrush.com\attachments\1226259457688731812\1226593023333371955\6c6d0a92760684802064c4a3a0937698.jpg
+Content Type: image/webp
+
+Uri: https://media.discordapp.net/attachments/1226594273634287697/1226596024726851665/spaceship.png?ex=66255791&is=6612e291&hm=2e354133565c93e96125c428619c26febcaf636889d4d03faf5b697edd77f886&=&format=webp&quality=lossless&width=1214&height=683
+File Name: C:\Downloaded Web Sites\foxyrush.com\attachments\1226594273634287697\1226596024726851665\spaceship.png
+Content Type: image/webp
+
